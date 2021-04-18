@@ -1,4 +1,10 @@
 
+```
+conda list --export > requirements.txt
+conda create -n <env-name> --file requirements.txt
+```
+
+
 ## Getting started with Machine Learning
 
 First, we must clear up one of the biggest misconceptions about machine learning:
