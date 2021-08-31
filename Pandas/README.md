@@ -1,1 +1,1 @@
-
+- Good pandas tutorial https://www.youtube.com/watch?v=vmEHCJofslg
